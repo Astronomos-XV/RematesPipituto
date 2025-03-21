@@ -21,3 +21,7 @@ en esa base de datos se almacenara la tabla productos (Su BD, usuario, y contras
 http://localhost/nombredelacarpeta/iftable.php
 
 - Luego de crear la tabla productos, le das en abrir app en la misma pagina y accederas al crud y esta listo para usarse
+
+
+# Explicacion de su funcionamiento
+- https://www.youtube.com/watch?v=92cwKCU8Z5c 
